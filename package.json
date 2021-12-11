@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rasuantaputra/Belajar-expressJS/issues"
   },
-  "homepage": "https://github.com/rasuantaputra/Belajar-expressJS#readme"
+  "homepage": "https://github.com/rasuantaputra/Belajar-expressJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
